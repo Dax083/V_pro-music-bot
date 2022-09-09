@@ -1,8 +1,8 @@
 {
-    "name": "Zaid Vc Player",
+    "name": "V_pro music bot",
     "description": "Music allow you to stream music trought the telegram voice chat feature.",
-    "keywords": ["music", "voice chat", "telegram", "Zaid", "ZaidMusic", "Zaid Vc Music"],
-    "repository": "https://github.com/Itz-Zaid/Zaid-Vc-Player",
+    "keywords": ["music", "voice chat", "telegram", "V pro", "VproMusic", "Vpro Vc Music"],
+    "repository": "https://github.com/Dax083/V_pro-music-bot",
     "stack": "container",
     "env": {
         "SESSION_NAME": {
