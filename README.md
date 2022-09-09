@@ -11,13 +11,13 @@ A telegram Music bot Source Code By Using PyroGram Client
 - [2nd Telegram Account](https://telegram.org/blog/themes-accounts#multiple-accounts) (needed for userbot)
 
 # Repo Statistics
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=ITZ-ZAID&repo=Zaid-Vc-Player&theme=dark)
+![github card](https://github.com/Dax083/V_pro-music-bot&theme=dark)
 
 #
 
 <p align="center">Deploy with Cloner Bot</p>
 
-<p align="center"><a href="https://github.com/ITZ-ZAID/Zaid-Vc-Player/tree/clone"> <img src="https://img.shields.io/badge/Cloner%20Branch-blue?style=for-the-badge&logo=github" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://github.com/Dax083/V_pro-music-bot"> <img src="https://img.shields.io/badge/Cloner%20Branch-blue?style=for-the-badge&logo=github" width="220" height="38.45"/></a></p>
 
 
 #
@@ -31,7 +31,7 @@ A telegram Music bot Source Code By Using PyroGram Client
 
 <p align="center">Tutorial</p>
 
-<p align="center"><a href="https://youtu.be/nQAyresJTC0"> <img src="https://img.shields.io/badge/Youtube%20Deploy-red?style=for-the-badge&logo=youtube" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://youtube.com/c/VVSLHproject"> <img src="https://img.shields.io/badge/Youtube%20Deploy-red?style=for-the-badge&logo=youtube" width="220" height="38.45"/></a></p>
 
 ### Commands 🛠
 Read All Commands
@@ -50,8 +50,8 @@ Read All Commands
 
 We Suggest To use Debian v-11 else ubuntu v-20+
 ```console
-$ git clone https://github.com/ITZ-ZAID/Zaid-Vc-Player
-$ cd Zaid-Vc-Player
+$ git clone https://github.com/Dax083/V_pro-music-bot
+$ cd V_pro-music-bot
 $ bash setup
 $ cp sample.env .env
 ```
@@ -75,3 +75,4 @@ $ python3 -m Zaid
 - PyroGram
 - Yukki(Heavily)
 - Xyz
+- all userboot
